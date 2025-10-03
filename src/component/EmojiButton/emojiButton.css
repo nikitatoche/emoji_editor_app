@@ -1,0 +1,16 @@
+.emoji-option {
+  font-size: 1.5rem;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  background: #fff;
+  border: 2px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
+}
+
+.emoji-option:hover {
+  background: #f0f0f0;
+  border-color: #aaa;
+  transform: scale(1.2);
+}
